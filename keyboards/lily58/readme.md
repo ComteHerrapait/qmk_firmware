@@ -13,3 +13,11 @@ Make example for this keyboard (after setting up your build environment):
     make lily58:default
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+
+
+## links
+
+[pinout](https://github.com/siderakb/rp-micro/releases)  
+[schematics](file:///C:/Users/leond/Downloads/rp-micro_v1.1_schematic.pdf)  
+[romac](https://github.com/The-Royal/The_RoMac_rev2.1)  
+[romac build guide](https://imgur.com/a/l24vgvC)  
